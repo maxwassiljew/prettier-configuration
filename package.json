@@ -1,6 +1,6 @@
 {
   "name": "@mwa-dev/prettier-configuration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal Prettier config",
   "main": "index.json",
   "repository": "git@github.com:maxwassiljew/prettier-configuration.git",
