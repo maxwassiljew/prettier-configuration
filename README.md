@@ -1,20 +1,21 @@
 # `@mwa-dev/prettier-configuration`
 
-> My personal [Prettier](https://prettier.io) config.
+> [Prettier](https://prettier.io) config.
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ npm install --save-dev @mwa-dev/prettier-configuration
+$ npm install @mwa-dev/prettier-configuration --save-dev
+$ yarn add @mwa-dev/prettier-configuration --dev
 ```
 
 **Edit `package.json`**:
 
 ```jsonc
 {
-  // ...
+  // Add as a new entry to package.json
   "prettier": "@mwa-dev/prettier-configuration"
 }
 ```
